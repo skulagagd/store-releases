@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.samples</groupId>
+  <artifactId>spring-petclinic</artifactId>
+  <versioning>
+    <lastUpdated>20221129035728</lastUpdated>
+    <snapshot>
+      <timestamp>20221129.035728</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.0.3-20221129.035728-1</value>
+        <updated>20221129035728</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0.3-20221129.035728-1</value>
+        <updated>20221129035728</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>3.0.3-SNAPSHOT</version>
+</metadata>
