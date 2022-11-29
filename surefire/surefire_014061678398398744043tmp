@@ -1,0 +1,30 @@
+#surefire_0
+#Tue Nov 29 05:23:57 CET 2022
+basedir=/Users/skulaga/Documents/GD-tasks/spring-petclinic
+git.branch=main
+git.build.host=C9205
+git.build.time=2022-11-29T05\:23\:54+0100
+git.build.user.email=skulaga@griddynamics.com
+git.build.user.name=Sebastian Kulaga
+git.build.version=3.0.3-SNAPSHOT
+git.closest.tag.commit.count=2
+git.closest.tag.name=spring-petclinic-3.0.2
+git.commit.author.time=2022-11-29T05\:04\:23+0100
+git.commit.committer.time=2022-11-29T05\:04\:23+0100
+git.commit.id=b41b00c63998f1ea64a22a7b36608fd35dc83062
+git.commit.id.abbrev=b41b00c
+git.commit.id.describe=spring-petclinic-3.0.2-2-gb41b00c-dirty
+git.commit.id.describe-short=spring-petclinic-3.0.2-2-dirty
+git.commit.message.full=test
+git.commit.message.short=test
+git.commit.time=2022-11-29T05\:04\:23+0100
+git.commit.user.email=skulaga@griddynamics.com
+git.commit.user.name=Sebastian Kulaga
+git.dirty=true
+git.local.branch.ahead=0
+git.local.branch.behind=0
+git.remote.origin.url=git@github.com\:skulagagd/spring-petclinic.git
+git.tags=
+git.total.commit.count=832
+localRepository=/Users/skulaga/.m2/repository
+user.dir=/Users/skulaga/Documents/GD-tasks/spring-petclinic
